@@ -48,15 +48,6 @@ class _DashboardScreenState extends State<DashboardScreen> {
               SizedBox(
                 height: 35,
               ),
-              Padding(
-                padding: EdgeInsets.symmetric(
-                  horizontal: 20,
-                ),
-                child: Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                  children: <Widget>[],
-                ),
-              ),
               SizedBox(
                 height: MediaQuery.of(context).size.height * 0.15,
               ),
@@ -105,7 +96,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
                           ],
                         ),
                         style: TextStyle(
-                          fontSize: 30,
+                          fontSize: 20,
                         ),
                       ),
                       SizedBox(
