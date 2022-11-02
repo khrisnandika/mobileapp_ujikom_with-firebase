@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34928934999",
+    "project_id": "latihan-ujikom-13595",
+    "storage_bucket": "latihan-ujikom-13595.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34928934999:android:ac0a8440c28c6da165e312",
+        "android_client_info": {
+          "package_name": "com.example.latihan_ujikom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34928934999-rmjdsp4roo6kf9uftmktabalgn7256e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfzcEMva1-u9sSjTTLrijvJHjVRhB-YAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34928934999-rmjdsp4roo6kf9uftmktabalgn7256e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
