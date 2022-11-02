@@ -1,9 +1,6 @@
-TAMPILAN APLIKASINYA
+TAMPILAN APLIKASI
 
 <img width="347" alt="Screen Shot 2022-11-02 at 23 08 13" src="https://user-images.githubusercontent.com/99785580/199547682-4fc77943-97bf-4697-9994-2bd8580d987e.png">
 <img width="346" alt="Screen Shot 2022-11-02 at 23 08 38" src="https://user-images.githubusercontent.com/99785580/199548574-222c8351-26b6-480f-82fe-634b2df4c6aa.png">
 <img width="346" alt="Screen Shot 2022-11-02 at 23 17 41" src="https://user-images.githubusercontent.com/99785580/199548600-d978261b-e344-486c-838f-d503f8e8caa3.png">
 <img width="345" alt="Screen Shot 2022-11-02 at 23 18 12" src="https://user-images.githubusercontent.com/99785580/199548618-bbf80ffa-138a-4a53-a0fb-5440ca874547.png">
-<img width="343" alt="Screen Shot 2022-11-02 at 23 18 24" src="https://user-images.githubusercontent.com/99785580/199548638-e9df4477-fb61-48b8-8ded-f8cf7073d7c9
-<img width="347" alt="Screen Shot 2022-11-02 at 23 18 45" src="https://user-images.githubusercontent.com/99785580/199548652-8dc78718-de79-4985-948c-327e75f57a99.png">
-.png">
