@@ -1,5 +1,5 @@
-<h2>TAMPILAN APLIKASI</h2>
-
+<h1>TAMPILAN APLIKASI</h1>
+<p>Disini anda dapat daftar akun, login, dan mengetahui titik koordinat anda, serta edit username pada informasi profile</p>
 <img width="347" alt="Screen Shot 2022-11-02 at 23 08 13" src="https://user-images.githubusercontent.com/99785580/199547682-4fc77943-97bf-4697-9994-2bd8580d987e.png">
 <img width="346" alt="Screen Shot 2022-11-02 at 23 08 38" src="https://user-images.githubusercontent.com/99785580/199548574-222c8351-26b6-480f-82fe-634b2df4c6aa.png">
 <img width="346" alt="Screen Shot 2022-11-02 at 23 17 41" src="https://user-images.githubusercontent.com/99785580/199548600-d978261b-e344-486c-838f-d503f8e8caa3.png">
